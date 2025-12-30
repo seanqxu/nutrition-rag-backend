@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+*.egg-info/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Database
+qdrant_storage/
+*.db
+
+# Documents (copyrighted)
+documents/*.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# Claude artifacts
+.claude/
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cache/
+.config/
+.gitconfig
+.local/
+.mozilla/
+.npm/
+.pki/
+.ssh/
+Downloads/
+*.rpm
